@@ -3,7 +3,7 @@ package main
 import "errors"
 import "flag"
 import "fmt"
-import "github.com/str1ngs/util/file"
+import "github.com/mrosset/util/file"
 import "log"
 import "os"
 import "os/exec"
